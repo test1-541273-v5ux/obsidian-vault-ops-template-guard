@@ -1,0 +1,10 @@
+{
+  "id": "vault-ops-template-guard",
+  "name": "Vault Ops - Template Guard",
+  "version": "0.1.1",
+  "minAppVersion": "1.5.0",
+  "description": "Vault Ops - Template Guard handles template quality checks with new note flow and delivers template validation hints as modal summary.",
+  "author": "YourCompany",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}

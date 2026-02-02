@@ -1,0 +1,1 @@
+Vault Ops - Template Guard handles template quality checks with new note flow and delivers template validation hints as modal summary. Opti…

@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-02-02T22:15:58.922Z",
+  "product": {
+    "slug": "vault-ops-template-guard",
+    "name": "Vault Ops - Template Guard",
+    "description": "Vault Ops - Template Guard handles template quality checks with new note flow and delivers template validation hints as modal summary.",
+    "version": "0.1.1",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "obsidian_plugin",
+    "productType": "plugin"
+  },
+  "modules": [
+    "ui_settings",
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "obsidian",
+      "vault",
+      "maintenance",
+      "writing",
+      "hygiene",
+      "productivity",
+      "pkm",
+      "knowledge",
+      "notes",
+      "ops",
+      "template",
+      "guard",
+      "quality",
+      "checks",
+      "new",
+      "note",
+      "flow",
+      "validation",
+      "hints",
+      "modal"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "obsidian_plugin",
+    "displayName": "Obsidian Community Plugin",
+    "kind": "plugin"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "primaryKeywords": [
+    "obsidian",
+    "vault",
+    "maintenance",
+    "writing",
+    "hygiene",
+    "productivity",
+    "pkm",
+    "knowledge",
+    "notes",
+    "ops"
+  ],
+  "secondaryKeywords": [
+    "organizer",
+    "note-tool",
+    "editor",
+    "ops-tool",
+    "templates",
+    "validation-tool",
+    "with-tool",
+    "storage",
+    "template",
+    "handles"
+  ],
+  "tags": [
+    "obsidian",
+    "vault",
+    "maintenance",
+    "writing",
+    "hygiene",
+    "productivity",
+    "pkm",
+    "knowledge",
+    "notes",
+    "ops",
+    "organizer",
+    "note-tool",
+    "editor",
+    "ops-tool",
+    "templates",
+    "validation-tool",
+    "with-tool",
+    "storage",
+    "template",
+    "handles",
+    "analytics-events",
+    "summary",
+    "flow",
+    "guard"
+  ],
+  "synonyms": {
+    "template": [
+      "template-ops",
+      "template-workflow",
+      "template-tool"
+    ],
+    "handles": [
+      "handles-ops",
+      "handles-workflow",
+      "handles-tool"
+    ],
+    "analytics-events": [
+      "analytics-events-ops",
+      "analytics-events-workflow",
+      "analytics-events-tool"
+    ],
+    "knowledge": [
+      "knowledge-ops",
+      "knowledge-workflow",
+      "knowledge-tool"
+    ],
+    "summary": [
+      "summary-ops",
+      "summary-workflow",
+      "summary-tool"
+    ],
+    "flow": [
+      "flow-ops",
+      "flow-workflow",
+      "flow-tool"
+    ],
+    "obsidian": [
+      "obsidian-ops",
+      "obsidian-workflow",
+      "obsidian-tool"
+    ],
+    "guard": [
+      "guard-ops",
+      "guard-workflow",
+      "guard-tool"
+    ],
+    "notes": [
+      "documents",
+      "entries",
+      "knowledge"
+    ],
+    "productivity": [
+      "focus",
+      "efficiency",
+      "workflow"
+    ]
+  }
+}

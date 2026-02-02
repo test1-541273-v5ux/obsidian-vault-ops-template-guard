@@ -1,0 +1,6 @@
+/* Vault Ops - Template Guard styles */
+.vault-ops-template-guard-panel {
+  border: 1px solid var(--background-modifier-border);
+  padding: 12px;
+  border-radius: 8px;
+}
